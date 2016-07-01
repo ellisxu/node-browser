@@ -1,5 +1,5 @@
 {
-  "name": "node-browser",
+  "name": "node-browser-offline",
   "version": "0.0.1",
   "description": "Wraps webdriver by nodejs. Based on imsobear/node-browser.",
   "main": "index.js",
