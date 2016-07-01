@@ -1,7 +1,10 @@
-# node-browser [![Build Status](https://travis-ci.org/imsobear/node-browser.svg?branch=master)](https://travis-ci.org/imsobear/node-browser) [![Coverage Status](https://coveralls.io/repos/imsobear/node-browser/badge.svg?branch=master)](https://coveralls.io/r/imsobear/node-browser?branch=master)
+# node-browser
 
 
-> wrap webdriver by nodejs promise API, support chrome and phantomjs.
+> This module is based on [imsobear/node-browser](https://github.com/imsobear/node-browser) wrapping webdrivers by nodejs promise API, support chrome and phantomjs.
+> The major difference from [imsobear/node-browser](https://github.com/imsobear/node-browser) is packing with webdrivers instead of
+> downloading them while installing. This change is for some environments which don't be capable of connecting Internet and downloading
+> webdrivers.
 
 ## Usage:
 
