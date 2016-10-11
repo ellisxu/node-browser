@@ -2,7 +2,7 @@
 
 
 > This module is based on [imsobear/node-browser](https://github.com/imsobear/node-browser) wrapping webdrivers by nodejs promise API, supports chrome and phantomjs.
-> The major difference from [imsobear/node-browser](https://github.com/imsobear/node-browser) is packing with webdrivers instead of
+> The major difference from [imsobear/node-browser](https://github.com/imsobear/node-browser) is packed with webdrivers instead of
 > downloading them while installing. This change is for some environments which aren't capable of connecting Internet and downloading
 > webdrivers.
 
